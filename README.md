@@ -2,21 +2,7 @@
 
 Hey folks! \
 I created this repo to explore my creative side and experiment with data to generate meaningful insights.
-While data analysis isn't my principal tech domain, I explored this tech world to design clear and meticulous dashboards.\
-I plan to keep adding more insightful reports over time.
-
-## Repo Structure
-
-```
-Power-BI-Reports/
-├── Cookie Company Insights/
-│   └── [Files]
-├── Data Breaches Insights/
-│   └── [Files]
-├── Network Protocols Dashboard/
-│   └── [Files]
-└── README.md
-```
+While data analysis isn't my principal tech domain, I explored this tech world to design clear and meticulous dashboards.
 
 ## How to View the Dashboards
 
@@ -32,6 +18,7 @@ To explore the dashboards:
 | `Cookie Company Insights` | [View Report](https://github.com/Munazza-Farees/Power-BI-Reports/tree/main/Cookie%20Company%20Insights)  |
 | `Data Breaches Insights` | [View Report](https://github.com/Munazza-Farees/Power-BI-Reports/tree/main/Data%20Breaches%20Insights) |
 | `Network Protocols Dashboard` | [View Report](https://github.com/Munazza-Farees/Power-BI-Reports/tree/main/Network%20Protocols%20Dashboard) |
+| `Telecom Network Performance Analyzer Dashboard` | [View Report](https://github.com/Munazza-Farees/Power-BI-Reports/tree/main/Telecom%20Network Performance%20Analyzer%20Dashboard) |
 
 
 ## Credits
