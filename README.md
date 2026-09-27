@@ -1,8 +1,7 @@
 # Power-BI-Reports
 
-Hey folks! \
-I created this repo to explore my creative side and experiment with data to generate meaningful insights.
-While data analysis isn't my principal tech domain, I explored this tech world to design clear and meticulous dashboards.
+Hey folks! I created this repo to explore my creative side and experiment with data to generate meaningful insights.
+While data analysis isn't my primary tech domain, I explored this tech world to design clear and meticulous dashboards.
 
 ## How to View the Dashboards
 
@@ -11,14 +10,14 @@ To explore the dashboards:
 2. Open using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Some reports may use sample or public datasets — see the "Credits" section for sources.
 
-## Contents' Link
+## Contents Link
 
 | Reports  | Directory |
 | :--- | :---: |
 | `Cookie Company Insights` | [View Report](https://github.com/Munazza-Farees/Power-BI-Reports/tree/main/Cookie%20Company%20Insights)  |
 | `Data Breaches Insights` | [View Report](https://github.com/Munazza-Farees/Power-BI-Reports/tree/main/Data%20Breaches%20Insights) |
 | `Network Protocols Dashboard` | [View Report](https://github.com/Munazza-Farees/Power-BI-Reports/tree/main/Network%20Protocols%20Dashboard) |
-| `Telecom Network Performance Analyzer Dashboard` | [View Report](https://github.com/Munazza-Farees/Power-BI-Reports/tree/main/Telecom%20Network Performance%20Analyzer%20Dashboard) |
+| `Telecom Network Performance Analyzer Dashboard` | [View Report](https://github.com/Munazza-Farees/Power-BI-Reports/tree/main/Telecom%20Network%20Performance%20Analyzer%20Dashboard) |
 
 
 ## Credits
